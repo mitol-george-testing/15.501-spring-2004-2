@@ -1,0 +1,36 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ],
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "76c400ee-1101-b399-3172-af1ffc90bf93"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Financial and Managerial Accounting",
+  "course_description": "This course studies basic concepts of financial and managerial reporting. The viewpoint is that of readers of financial and managerial reports rather than the accountants who prepare them.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "15.516",
+  "primary_course_number": "15.501",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
